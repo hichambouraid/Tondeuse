@@ -9,8 +9,7 @@ Tondeuse Kata
 
 ## Démarrage
 
-Ajouter le mot "input.txt" dans les argument lors du démmarage
-
+Ajouter le mot "input.txt" dans les arguments lors du démarrage
 ## Installation
 ```bash
 # Clonez le dépôt
